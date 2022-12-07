@@ -11,8 +11,8 @@
 	<groupId>com.ar.cac</groupId>
 	<artifactId>spring-boot-app</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Homebanking</name>
-	<description>Demo project for Spring Boot for Codo a Codo (Homebanking)</description>
+	<name>Restaurante</name>
+	<description>Project for Spring Boot for Codo a Codo (Menu para un restaurante)</description>
 	<properties>
 		<java.version>17</java.version>
 	</properties>
